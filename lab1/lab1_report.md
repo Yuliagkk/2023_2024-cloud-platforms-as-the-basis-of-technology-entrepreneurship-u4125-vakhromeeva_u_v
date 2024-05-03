@@ -1,1 +1,9 @@
-University: ITMO University Faculty: FICT Course: Cloud platforms as the basis of technology entrepreneurship ADD link Year: 2023/2024 Group: U4125 Author: Vakhromeeva Yulia Vladimirovna Lab: Lab1 Date of create: 02.05.2024 Date of finished: 07.05.2024
+University: ITMO University 
+Faculty: FICT 
+Course: Cloud platforms as the basis of technology entrepreneurship ADD link 
+Year: 2023/2024 
+Group: U4125 
+Author: Vakhromeeva Yulia Vladimirovna
+Lab: Lab1 Date of create: 02.05.2024 
+Date of finished: 07.05.2024
+# Лабораторная работа №1 "Обзор Google Cloud и исследование основных сервисов"
