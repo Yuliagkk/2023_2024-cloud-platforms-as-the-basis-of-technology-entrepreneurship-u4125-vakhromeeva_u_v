@@ -10,7 +10,9 @@ Group: U4125
 
 Author: Vakhromeeva Yulia Vladimirovna
 
-Lab: Lab1 Date of create: 03.05.2024 
+Lab: Lab2
+
+Date of create: 03.05.2024 
 
 Date of finished: 07.05.2024
 
