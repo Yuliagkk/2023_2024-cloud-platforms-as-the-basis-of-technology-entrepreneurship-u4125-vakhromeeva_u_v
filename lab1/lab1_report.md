@@ -35,4 +35,4 @@ Date of finished: 07.05.2024
 
 ![image](https://github.com/Yuliagkk/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-vakhromeeva_u_v/assets/166257005/44853f9a-ccac-4928-ba69-0a43eb85c8ef)
 
-Повторила пункт с копированием данных
+Повторила пункт с копированием данных, предварительно перезапустив машину
