@@ -42,6 +42,6 @@ Date of finished: 07.05.2024
 ![image](https://github.com/Yuliagkk/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-vakhromeeva_u_v/assets/166257005/fe8b8e43-cd45-4f75-b651-18dcebb82901)
 
 
-Вышла ошибка "AccessDeniedException: 403 Forbidden", потому что у service account теперь нет разрешения на доступ к бакету Storage.
+Вышла ошибка "AccessDeniedException: 403", потому что у service account теперь нет разрешения на доступ к бакету Storage.
 
 # Вывод: Изменение роли service account с Storage Admin на Compute Viewer привело к потере доступа к бакету Storage, так как Compute Viewer не имеет прав на доступ к хранилищу. Это означает, что изменение прав доступа влияет на действия, которые можно выполнять с использованием данного service account.
