@@ -19,7 +19,8 @@ Date of finished: 07.05.2024
 
 Инфраструктура представлена следующим образом:
 
-![image](https://github.com/Yuliagkk/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-vakhromeeva_u_v/assets/166257005/d33daefe-dfcb-4780-9f43-3d4892e5a330)
+![image](https://github.com/Yuliagkk/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-vakhromeeva_u_v/assets/166257005/efd9ecfb-4901-40cc-bd5c-08decb5c1e4b)
+
 
 
 # Начальное состояние: 
