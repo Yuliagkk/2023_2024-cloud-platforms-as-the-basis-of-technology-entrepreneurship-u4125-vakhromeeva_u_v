@@ -31,8 +31,16 @@ Date of finished: 07.05.2024
 
 ![image](https://github.com/Yuliagkk/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-vakhromeeva_u_v/assets/166257005/1668e347-9d69-4150-804c-80c7a1c00ddf)
 
+После этого мы должны видеть информацию о скопированных файлах в локальной папке на виртуальной машине.
+
 Во вкладке IAM поменяла права доступа для service account с Storage Admin на на Compute Viewer.
 
 ![image](https://github.com/Yuliagkk/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-vakhromeeva_u_v/assets/166257005/44853f9a-ccac-4928-ba69-0a43eb85c8ef)
 
 Повторила пункт с копированием данных, предварительно перезапустив машину
+
+
+
+Вышла ошибка "AccessDeniedException: 403 Forbidden", потому что у service account теперь нет разрешения на доступ к бакету Storage.
+
+# Вывод: Изменение роли service account с Storage Admin на Compute Viewer привело к потере доступа к бакету Storage, так как Compute Viewer не имеет прав на доступ к хранилищу. Это означает, что изменение прав доступа влияет на действия, которые можно выполнять с использованием данного service account.
