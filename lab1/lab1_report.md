@@ -1,6 +1,6 @@
 University: ITMO University 
 
-Faculty: FICT 
+Faculty: FTMI
 
 Course: Cloud platforms as the basis of technology entrepreneurship ADD link 
 
