@@ -25,7 +25,8 @@ Date of finished: 07.05.2024
 
 Перешла по ссылке предоставленной Cloud Run, протестировала сервис.
 
-![image](https://github.com/Yuliagkk/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-vakhromeeva_u_v/assets/166257005/230f9896-0962-4611-b7bc-81e84f0e1a9e)
+![image](https://github.com/Yuliagkk/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-vakhromeeva_u_v/assets/166257005/3013b2dc-2e09-421f-a409-9f147d87efa8)
+
 
 Перешла в разделы логи и метрики
 
